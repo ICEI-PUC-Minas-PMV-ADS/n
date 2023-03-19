@@ -12,7 +12,7 @@ Com os detalhes levantados nesse processo foram consolidados na forma de persona
 | Frustrações:                                                    | Valor exorbitante das contas de energia; Não entender os valores finais na conta de energia; Não conseguir economizar;                                             |
 | Hobbies, História:                                              | Gosta de pesquisar sobre novas; tecnologias e demandas do mercado;Política e economia.                                                        |
 
-| <img src="x" width="350" height="175"/> | Carlos Gomes, 36 anos|
+| <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t4-pmv-ads-2023-1-e2-proj-int-t4-g2/blob/main/docs/img/persona2.jpg?raw=true" width="350" height="175"/> | Carlos Gomes, 36 anos|
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------|
 | Ocupação:                                                       | Mestre de obras.                                                                                           |
 | Aplicativos:                                                    | Whatsapp, Tik-Tok, Mercado Livre, Instagram  |
