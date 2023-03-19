@@ -4,7 +4,7 @@ Com os detalhes levantados nesse processo foram consolidados na forma de persona
 
 ## Personas
 
-| <img src="x" width="350" height="175"/> | Arnaldo Santos, 45 anos|
+| <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t4-pmv-ads-2023-1-e2-proj-int-t4-g2/blob/main/docs/img/pesrona1.jpg?raw=true" width="350" height="175"/> | Arnaldo Santos, 45 anos|
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------|
 | Ocupação:                                                       | Cirurgião dentista, proprietário de uma Clínica cooperativa.                                                                                           |
 | Aplicativos:                                                    | Instagram, Linkedin, G1, Amazon.                                                        |
@@ -77,8 +77,8 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 
 
 ## Diagrama de Casos de Uso
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t4-pmv-ads-2023-1-e2-proj-int-t4-g2/blob/main/docs/img/Diagramadecasosdeuso.jpeg?raw=true" width="800" height="420"/>
 
-COLOCAR IMAGEM AQUI DO DIAGRAMA
 
 O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
 
