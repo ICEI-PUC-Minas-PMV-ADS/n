@@ -10,7 +10,7 @@ Com foco na redução dos riscos de déficit de energia e diminuição no custo 
 Contudo, mesmo que haja ações para produção de energia limpa é essencial que a população faça o consumo consciente do recurso disponível. De acordo com EPE, o consumo nacional de energia elétrica foi de 42.837 GWh em janeiro de 2023, crescimento de 0,6% em comparação com mesmo mês de 2022, esses dados demonstram um comportamento da população e nos alerta para o risco de um crescimento exponencial do consumo de energia que nos levará a necessidades maiores na produção, ou seja um looping infinito de geração e demanda que não será sustentável a longo prazo.
 Outras alternativas de geração de energia tem sido a instalação residencial e em  pequenas empresas de placas fotovoltaicas com intuito de reduzir o valor pago às concessionárias de energia. A geração de energia solar teve um crescimento acima das estimativas conforme mostra a figura 2.
 
-!!IMAGEM2!!
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t4-pmv-ads-2023-1-e2-proj-int-t4-g2/blob/main/docs/img/figura2.jpeg">
 
 ## Problema
 Conforme exposto, o problema que se busca resolver é possibilitar ao usuário calcular e prever o consumo em KWH e valores monetários com base nos equipamentos e eletrodomésticos. Outra possibilidade é dimensionar a quantidade de placas solares e inversores necessários para realização da instalação fotovoltaica.
