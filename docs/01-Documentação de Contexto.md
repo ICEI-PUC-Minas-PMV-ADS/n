@@ -29,7 +29,7 @@ Como objetivos específicos, podemos ressaltar:
 
 Apesar das novas tendências tecnológicas permitirem a produção energética menos danosa ao meio ambiente, não é o bastante para resolver a problemática do consumo descontrolado. Assim sendo, faz-se necessário o desenvolvimento e divulgação de informações que ajude o usuário a catalogar seus gastos energéticos e dar opções para o consumo consciente.
 
-!!IMAGEM3!!
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t4-pmv-ads-2023-1-e2-proj-int-t4-g2/blob/main/docs/img/figura3.jpeg">
 
 ## Público-Alvo
 
