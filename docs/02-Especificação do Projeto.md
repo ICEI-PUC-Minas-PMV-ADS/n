@@ -1,103 +1,86 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+Com os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+| <img src="x" width="350" height="175"/> | Arnaldo Santos, 45 anos|
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------|
+| Ocupação:                                                       | Cirurgião dentista, proprietário de uma Clínica cooperativa.                                                                                           |
+| Aplicativos:                                                    | Instagram, Linkedin, G1, Amazon.                                                        |
+| Motivações:                                                     | Avaliar o  consumo energético total da clínica; Entender quais equipamentos consomem mais energia; Efetuar trocas eficientes desses equipamentos.                    |       
+| Frustrações:                                                    | Valor exorbitante das contas de energia; Não entender os valores finais na conta de energia; Não conseguir economizar;                                             |
+| Hobbies, História:                                              | Gosta de pesquisar sobre novas; tecnologias e demandas do mercado;Política e economia.                                                        |
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+| <img src="x" width="350" height="175"/> | Carlos Gomes, 36 anos|
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------|
+| Ocupação:                                                       | Mestre de obras.                                                                                           |
+| Aplicativos:                                                    | Whatsapp, Tik-Tok, Mercado Livre, Instagram  |
+| Motivações:                                                     | Entender melhor sistemas elétricos e padrões de consumo; Construir imóveis com consumo eficiente; Propor análise entre estimativa e valores das contas para localizar problemas nas redes elétricas.|       
+| Frustrações:                                                    | Dificuldade em catalogar seus gastos mensais com seu maquinário de trabalho e aparelhos residenciais; Uso de equipamentos antigos com alto custo energético; Desperdício de energia durante o dia.| 
+| Hobbies, História:                                              | Gosta de buscar soluções inovadoras para a construção civil; Música; Pescaria. |
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários.
+
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Arnaldo Santos  | Conhecer o gasto de energia nos equipamentos da clínica. | Para que seja capaz de substituir os equipamentos se conveniente para economia de energia.|
+|Arnaldo Santos  | Compreender melhor os gastos com energia.             | Para criar estratégias de economia; |
+|Arnaldo Santos  | Prever o gasto anual. | Para dimensionar um sistema de produção de energia fotovoltaica.|
+|Carlos Gomes | Analisar o perfil de consumo de seus clientes. | Para indicar instalação de painéis solares |
+|Carlos Gomes | Estimar valores de sistemas fotovoltaicos. | Para recomendar aos seus clientes a instalação do sistema fotovoltaico.|
+|Carlos Gomes | Comparar valores estimados e reais das contas.| Para detectar possíveis falhas na rede elétrica. |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+## Requisitos de projeto
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir.
 
-## Requisitos
-
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
 ### Requisitos Funcionais
+A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
 
-|ID    | Descrição do Requisito  | Prioridade |
+|ID    | Descrição do Requisito  | Prioridade         |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O sistema deve permitir o cadastro de equipamentos e eletrodomésticos.s | ALTA  | 
+|RF-002| O sistema permite a escolha do usuário entre perfil residencial ou empresarial   | MÉDIA |
+|RF-003| O sistema deve apresentar de forma clara uma listagem de equipamentos eletroeletrônicos e sua média de consumo em KWH. | ALTA  | 
+|RF-004| O sistema deve permitir ao usuário incluir o tempo de uso médio de cada equipamento ou eletrodoméstico em minutos;   | MÉDIA |
+|RF-005| O sistema calcula valores a partir de consumo em KWH e o valor atual da concessionária; | MÉDIA | 
+|RF-006| O sistema gera um relatório com estimativa de valores mensais de acordo com equipamentos eletroeletrônicos e eletrodomésticos utilizados pelo usuário.   | ALTA  |
+|RF-007| A partir da média de consumo, o sistema apresenta uma tabela com os insumos necessários para implementação de um sistema fotovoltaico. | BAIXA | 
+|RF-008| O sistema apresenta um catálogo de empresas parceiras onde o usuário pode solicitar orçamentos para compra do sistema fotovoltaico.   | BAIXA |
+|RF-009| O sistema imprime valores com base na projeção do sistema fotovoltaico previamente feitos   | BAIXA |
+|RF-010| O sistema gera um informativo sugerindo que o usuário realize a análise de valores reais e estimados pela aplicação, com o intuito de alertar ao cliente sobre possíveis problemas na rede elétrica ou em seus equipamentos eletroeletrônicos.   | BAIXA |
 
 ### Requisitos não Funcionais
+A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | ALTA | 
+|RNF-002| Deve processar requisições do usuário em no máximo 3s |  ALTA | 
+|RNF-003| Deve processar requisições do usuário em no máximo 3s |  MÉDIA | 
+|RNF-004| Deve processar requisições do usuário em no máximo 3s |  ALTA | 
 
 ## Restrições
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
+As questões que limitam a execução desse projeto e que se configuram como obrigações claras para o desenvolvimento do projeto em questão são apresentadas na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|RE-01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 19/03/2023. |
+|RE-02| O aplicativo deve se restringir às tecnologias básicas da Web no Frontend e Backend.|
+|RE-03| A equipe não pode subcontratar o desenvolvimento do trabalho.|
 
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 ## Diagrama de Casos de Uso
 
+COLOCAR IMAGEM AQUI DO DIAGRAMA
+
 O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
 
-> **Links Úteis**:
-> - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)
-> - [Como Criar Diagrama de Caso de Uso: Tutorial Passo a Passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
-> - [Lucidchart](https://www.lucidchart.com/)
-> - [Astah](https://astah.net/)
-> - [Diagrams](https://app.diagrams.net/)
+
