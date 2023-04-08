@@ -96,7 +96,7 @@ As ferramentas empregadas no projeto são:
 > * `Lucidchart:` Foi utilizada para a confecção dos diagramas.
 
 #### Ferramentas para wireframing (desenhos de tela)
-> - `MarvelApp?:` 
+> - `MarvelApp:`Software escolhido para o desenvolvimento do layout das telas do site.
 
 
 ## Diagrama de classes
