@@ -8,10 +8,10 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 
 | AMBIENTE | PLATAFORMA | LINK DE ACESSO |
 |----------|------------|-------------------------------------------------------------------------------------------------------|
-| Repositório de código fonte | Github | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/teams/coleta_seletiva                   |
-| Documentos do projeto | Google Drive | https://drive.google.com/drive/folders/14fuFMJuTY88s1x_6aTVwBSzxhbJANJs5?usp=sharing   |
-| Projeto de Interface e  Wireframes |  |                                       |
-| Gerenciamento do Projeto | Canva | https://www.canva.com/design/DAFPI4VChHc/658JO-Mpr0rMwp7iASRidA/edit?utm_content=DAFPI4VChHc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton                                        |
+| Repositório de código fonte | Github | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t4-pmv-ads-2023-1-e2-proj-int-t4-g2 |
+| Documentos do projeto | Google Drive | https://docs.google.com/document/d/1xjZAF1Sr75Ugh6kfom6DVQ-jP-vKDhnc/edit   |
+| Projeto de Interface e  Wireframes | MarvelApp |                                       |
+| Gerenciamento do Projeto |  |https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/299                                     |
 
 ## Gestão de código fonte
 Para gestão do código fonte do software desenvolvido pela equipe, o grupo utiliza um processo baseado no Git Flow abordado por Vietro (2015), mostrado na Figura a seguir. Desta forma, todas as manutenções no código são realizadas em branches separados, identificados como Hotfix, Release, Develop e Feature. 
