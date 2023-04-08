@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# Mapeamento de Consumo de Energia
 
 `Análise e Desenvolvimento de Sistemas`
 
@@ -6,7 +6,7 @@
 
 `2º SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O intuito do projeto é desenvolver um uma aplicação que calcule o consumo de energia em KWH e estipule a quantidade de placas solares para atender as necessidades de custo energético.
 
 ## Integrantes
 
@@ -19,7 +19,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Orientador
 
-* Carlos Alberto Marques Pietrobon
+* José Wilson Da Costa
 
 ## Instruções de utilização
 
