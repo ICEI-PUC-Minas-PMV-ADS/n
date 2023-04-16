@@ -21,7 +21,7 @@ Com os detalhes levantados nesse processo foram consolidados na forma de persona
 | Hobbies, História:                                              | Gosta de buscar soluções inovadoras para a construção civil; Música; Pescaria. |
 
 
-| <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t4-pmv-ads-2023-1-e2-proj-int-t4-g2/blob/430d9e0852c7842e337d09434988e9eaabfc36b0/docs/img/imagem_2023-04-08_173214534.png" width="250" height="195"/> | Andrea Soares, 44 anos|
+| <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t2-mapeamento-consumo-energetico/blob/main/docs/img/persona3.jpg" width="250" height="195"/> | Andrea Soares, 44 anos|
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------|
 | Ocupação:                                                       | Dona de casa / Cabeleireira |
 | Aplicativos:                                                    | Tik-Tok, Youtube, Instagram e Kawai. |
